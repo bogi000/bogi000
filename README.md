@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @bogi000
-- 👀 I’m interested in making games
-- 🌱 I’m currently learning Godot and Python
+# bogi000
+### Kreator:
+- ##### Pecine Smrti
+- ##### Pecine Smrti 2
+- ##### Pecine Smrti 3 (USKORO)
 
 <!---
 bogi000/bogi000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
